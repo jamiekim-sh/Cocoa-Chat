@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>74395056356-1jng10u4kik97fr7p3d2n933ei9o600k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.74395056356-1jng10u4kik97fr7p3d2n933ei9o600k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnK0FYLk5aHUz1UeQ-NqXDzfV2_WTVCUU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>74395056356</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jamiekim.Cocoa-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>cocoa-chat-de435</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cocoa-chat-de435.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:74395056356:ios:69c532ab9d620c924ad4f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://cocoa-chat-de435.firebaseio.com</string>
+</dict>
+</plist>
